@@ -36,6 +36,7 @@ Se trata de una aplicación que presenta al usuario una interfaz basada en boton
    
 ### Aplicación de demostración
 La APP de demostración ofrece una interfaz con un mapa interactivo, pensada para planificar y supervisar vuelos del dron de manera cómoda e intuitiva. Para iniciar esta segunda aplicación, deberemos abrir la estación de tierra y clicar en el botón de Abrir mapa, lo que generará una nueva ventana. En esta ventana, lo que veremos al inicio es un canva gris cuadriculado representando una superficie de 10 metros por 10 metros, con marcas cada 0,5 metros. El dron aparece inicialmente en el centro (posición X=o e Y=0) para empezar a actualizar su posición en cuanto despegue.
+
 En la parte superior hay una barra de controles con los siguientes elementos: un botón de Misión, que al clicarlo nos indicará los pasos necesarios para generar una misión, un segundo botón llamado “Limpiar misión” que nos permite borrar los waypoints y salir del modo planificación; también disponemos de un slider de velocidad que nos permitirá regular a cómo de rápido queremos hacer los movimientos, por último, tenemos dos botones que nos permiten activar y desactivar el modo joystick, para poder controlar el dron des del mando.
 
 El siguiente vídeo ilustra el funcionamiento de ambas aplicaciones.
