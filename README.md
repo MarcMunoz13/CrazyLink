@@ -122,7 +122,6 @@ Para poder usar la librería CrazyLink en un proyecto Pycharm es necesario copia
 ## 5. Inicio de Crazyflie
 Para empezar a usar el Crazyflie a traves de la radio Crazyradio PA es necesario el instalador de driver que me permitirá controlar el dongle. Para ello, deberemos instalar el ejecutable Zadig des de este enlace <a href="https://zadig.akeo.ie/" target="_blank">Zadig</a> y configurarlo para instalar el driver libsub. El siguiente paso es generar un proyecto con PyCharm e instalar la lista de librerías que se detallan a continuación.
 - cfclient
-- cflib
 - pygame
 - pillow
 - paho-mqtt v1.6.1
