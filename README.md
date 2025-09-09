@@ -146,6 +146,8 @@ La APP de demostración ofrece una interfaz con un mapa interactivo, pensada par
 En la parte superior hay una barra de controles con los siguientes elementos: un botón de Misión, que al hacer clic nos indicará los pasos necesarios para generar una misión, un segundo botón llamado “Limpiar misión” que nos permite borrar los waypoints y salir del modo planificación; también disponemos de un slider de velocidad que nos permitirá regular a cómo de rápido queremos hacer los movimientos, por último, tenemos dos botones que nos permiten activar y desactivar el modo joystick, para poder controlar el dron desde el mando.
 
 El siguiente vídeo ilustra el funcionamiento de ambas aplicaciones.
+
+
 [![](https://img.youtube.com/vi/jpzkRK8Avdk/0.jpg)](https://www.youtube.com/watch?v=jpzkRK8Avdk)
 
 
