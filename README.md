@@ -111,7 +111,7 @@ ejemplo, la altura del dron en todo momento.
 
 En el siguiente vídeo se hace uso de la función takeOff para demostrar de manera sencilla el efecto de las llamadas bloqueantes o no bloqueantes.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Oi9jYxCv_Zk?si=ODpd8l2gpv5-bYwa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/Oi9jYxCv_Zk/0.jpg)](https://www.youtube.com/watch?v=Oi9jYxCv_Zk)
 
 ## 3. Métodos de la clase Dron
 En la tabla que se enlaza más abajo se describen los métodos de la clase Dron de la versión actual de CrazyLink.
