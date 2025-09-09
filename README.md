@@ -115,7 +115,10 @@ En el siguiente vídeo se hace uso de la función takeOff para demostrar de mane
 
 ## 3. Métodos de la clase Dron
 En la tabla que se enlaza más abajo se describen los métodos de la clase Dron de la versión actual de CrazyLink.
------?????????'
+
+El siguiente vídeo será una navegación por el código de CrazyLink para entender su lógica y poder empezar a trabajar con él.
+[![](https://img.youtube.com/vi/SIRw1PJkhDY/0.jpg)](https://www.youtube.com/watch?v=SIRw1PJkhDY)
+
 
 ## 4. Instalación de CrazyLink
 Para poder usar la librería CrazyLink en un proyecto PyCharm es necesario copiar la carpeta CrazyLink que hay en este repositorio en la carpeta del proyecto en el que se quiere usar. Para ello basta clonar este repositorio y luego copiar la carpeta CrazyLink (y posiblemente borrar después el repositorio clonado).
@@ -143,5 +146,6 @@ La APP de demostración ofrece una interfaz con un mapa interactivo, pensada par
 En la parte superior hay una barra de controles con los siguientes elementos: un botón de Misión, que al hacer clic nos indicará los pasos necesarios para generar una misión, un segundo botón llamado “Limpiar misión” que nos permite borrar los waypoints y salir del modo planificación; también disponemos de un slider de velocidad que nos permitirá regular a cómo de rápido queremos hacer los movimientos, por último, tenemos dos botones que nos permiten activar y desactivar el modo joystick, para poder controlar el dron desde el mando.
 
 El siguiente vídeo ilustra el funcionamiento de ambas aplicaciones.
+[![](https://img.youtube.com/vi/jpzkRK8Avdk/0.jpg)](https://www.youtube.com/watch?v=jpzkRK8Avdk)
 
 
