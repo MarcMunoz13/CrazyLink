@@ -111,13 +111,16 @@ ejemplo, la altura del dron en todo momento.
 
 En el siguiente vídeo se hace uso de la función takeOff para demostrar de manera sencilla el efecto de las llamadas bloqueantes o no bloqueantes.
 
-[![](https://img.youtube.com/vi/Oi9jYxCv_Zk/0.jpg)](https://www.youtube.com/watch?v=Oi9jYxCv_Zk)
+[![](https://img.youtube.com/vi/VX7yE-6NsEk/maxresdefault.jpg)](https://www.youtube.com/watch?v=VX7yE-6NsEk)
+
+
 
 ## 3. Métodos de la clase Dron
 En la tabla que se enlaza más abajo se describen los métodos de la clase Dron de la versión actual de CrazyLink.
 
 El siguiente vídeo será una navegación por el código de CrazyLink para entender su lógica y poder empezar a trabajar con él.
-[![](https://img.youtube.com/vi/SIRw1PJkhDY/0.jpg)](https://www.youtube.com/watch?v=SIRw1PJkhDY)
+
+[![](https://img.youtube.com/vi/gOwpgdmqr_E/maxresdefault.jpg)](https://www.youtube.com/watch?v=gOwpgdmqr_E)
 
 
 ## 4. Instalación de CrazyLink
@@ -148,6 +151,6 @@ En la parte superior hay una barra de controles con los siguientes elementos: un
 El siguiente vídeo ilustra el funcionamiento de ambas aplicaciones.
 
 
-[![](https://img.youtube.com/vi/jpzkRK8Avdk/0.jpg)](https://www.youtube.com/watch?v=jpzkRK8Avdk)
+[![](https://img.youtube.com/vi/oePN3iNfj3Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=oePN3iNfj3Q)
 
 
